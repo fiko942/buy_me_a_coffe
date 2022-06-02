@@ -12,7 +12,7 @@
   </a>
 
   <h3 align="center">Mividy</h3>
-  <small align="center" style="margin-bottom: 30px; font-weight: 600;">Won 1st place in the national level software development competition organized by UMM (University of Muhammadiyah Malang).</small>
+  <small align="center" style="margin-bottom: 30px; font-weight: 600;">Simple support page template.</small>
 
   <p align="center">
     You can contact us if you have any question
@@ -25,7 +25,7 @@
   <p align="center">
     Demo site
     <br />
-    <a target="_blank" href="https://fiko942.github.io"><strong>https://fiko942.github.io »</strong></a>
+    <a target="_blank" href="https://tobelsoft.my.id/support"><strong>https://tobelsoft.my.id/support »</strong></a>
     <br />
     <br />
   </p>
@@ -33,15 +33,9 @@
 
 ### Built With
 
-* [Electron JS](https://electronjs.org)
-* [Bootstrap](https://getbootstrap.com)
-* [Javascript](https://javascript.com)
-* [Codeigniter](https://codeigniter.com)
-* [JQuery](https://jquery.com)
-* [AOS JS](https://michalsnik.github.io/aos/)
-* [Vanilla Tilt](https://micku7zu.github.io/vanilla-tilt.js/)
-* [Boxicons](https://boxicons.com/)
-* [Node JS](https://nodejs.org/en/)
+* HTML
+* CSS3
+* Javascript
 
 ### Buy me a coffe
 
