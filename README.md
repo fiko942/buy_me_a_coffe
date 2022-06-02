@@ -11,7 +11,7 @@
     <img src="./screenshot.jpg" alt="Banner" width="380" height="190">
   </a>
 
-  <h3 align="center">Mividy</h3>
+  <h3 align="center">Buy me a coffe</h3>
   <small align="center" style="margin-bottom: 30px; font-weight: 600;">Simple support page template.</small>
 
   <p align="center">
