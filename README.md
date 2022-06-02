@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://tobelsoft.my.id">
-    <img src="./banner.jpg" alt="Banner" width="380" height="190">
+    <img src="./screenshot.png" alt="Banner" width="380" height="190">
   </a>
 
   <h3 align="center">Mividy</h3>
